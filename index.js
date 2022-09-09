@@ -1,4 +1,4 @@
-function getMeThoseKitKats() {
-    console.log("getting KitKats...");
+function getMeThoseKitKats(numberOfKitcats) {
+    console.log(`getting ${numberOfKitcats} KitKats...`);
 }
-getMeThoseKitKats();
+getMeThoseKitKats(1000000);
