@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "echo Pretending to build",
-    "test": "echo This project doesn't have any tests"
+    "build": "echo Pretending to build...",
+    "test": "echo Pretending to run tests..."
   },
   "repository": {
     "type": "git",
